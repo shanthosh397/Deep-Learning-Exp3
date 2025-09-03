@@ -36,19 +36,27 @@ Name:
 Register Number:
 
 class CNNClassifier(nn.Module):
+   
     def __init__(self, input_size):
+       
         super(CNNClassifier, self).__init__()
+       
         #Include your code here
 
     def forward(self, x):
+       
         #Include your code here
 
   *# Initialize the Model, Loss Function, and Optimizer
+  
   model =
+  
   criterion =
+  
   optimizer =
 
  def train_model(model, train_loadr, num_epochs=10):
+   
     #Include your code here
 
 **OUTPUT**
