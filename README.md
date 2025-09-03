@@ -47,17 +47,17 @@ class CNNClassifier(nn.Module):
        
         #Include your code here
 
-  *# Initialize the Model, Loss Function, and Optimizer
+       ** # Initialize the Model, Loss Function, and Optimizer**
   
-  model =
+       model =
   
-  criterion =
+       criterion =
   
-  optimizer =
+       optimizer =
 
- def train_model(model, train_loadr, num_epochs=10):
+       def train_model(model, train_loadr, num_epochs=10):
    
-    #Include your code here
+      #Include your code here
 
 **OUTPUT**
 
